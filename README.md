@@ -4,8 +4,6 @@
 [![MARIMO](https://github.com/tschm/ex1/actions/workflows/marimo.yml/badge.svg)](https://github.com/tschm/ex1/actions/workflows/marimo.yml)
 [![Created with qCradle](https://img.shields.io/badge/Created%20with-qCradle-blue?style=flat-square)](https://github.com/tschm/experiments)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/tschm/ex1)
-
 ## Getting Started
 
 ### **Set Up Environment**
