@@ -1,0 +1,14 @@
+_commit: v0.4.66
+_src_path: git@github.com:tschm/experiments.git
+description: Demo
+gh_create: gh repo create tschm/ex1 --public --description 'Demo'
+page: https://tschm.github.io/ex1
+project_name: ex1
+repository: https://github.com/tschm/ex1
+ssh_uri: git@github.com:tschm/ex1.git
+status: public
+use_dependabot: false
+use_devcontainer: false
+use_latex: false
+use_renovate: true
+username: tschm
